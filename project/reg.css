@@ -1,0 +1,28 @@
+/* CSS Document */
+
+*
+{
+ margin:0px;
+ padding:0px;
+}
+body
+{
+ background-image:url(Keyboard-3-1024x640.jpg);
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-size:cover;
+ font-family:"Times New Roman", Times, serif;
+}
+h1
+{
+ font-size:40px;
+ color:#FFFFFF;
+ margin-top:20px;
+ margin-right:150px;
+ margin-bottom:30px;
+}
+.btn
+{
+ margin-top:30px;
+ margin-left:120px;
+}

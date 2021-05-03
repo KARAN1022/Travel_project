@@ -1,0 +1,45 @@
+/* CSS Document */
+
+.navbar-brand
+{
+ font-weight:bold;
+ font-size:2em;
+}
+.navbar .custom-nav .nav-item a
+{
+ color:#FFF;
+}
+.navbar .custom-nav .nav-item a:hover
+{
+ color:#FF9999;
+}
+.hd-img
+{
+ background-image:url(bus.jpg);
+ bacground-size:cover;
+ background-position:center center;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ min-height:600px;
+
+}
+.font-italic
+{
+ font-size:25px;
+}
+.mainheading
+{
+ margin-top:90px;
+}
+.btn1
+{
+ margin-top:20px;
+}
+@media only screen and (max-width:500px)
+{
+  .resclass
+  {
+   margin-top:300px;
+  text-align:center;
+  }
+}
